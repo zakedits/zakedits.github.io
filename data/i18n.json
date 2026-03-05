@@ -10,7 +10,7 @@
       "heroTitle": "I turn raw footage<br>into <span class=\"hero__accent\">scroll-stoppers</span>",
       "heroSubtitle": "Reels. TikToks. Shorts. Crafted to hook, hold, and convert.",
       "heroBtnText": "See My Work",
-      "heroBtnContactText": "Get a Quote",
+      "heroBtnContactText": "Contact Me",
       "statProjects": "Projects Delivered",
       "statTurnaround": "Turnaround Time",
       "statLanguages": "Languages"
@@ -139,7 +139,7 @@
     },
     "home": {
       "heroTag": "مونتير فيديوهات قصيرة",
-      "heroTitle": "أحوّل المقاطع الخام<br>إلى <span class=\"hero__accent\">محتوى يوقف التمرير</span>",
+      "heroTitle": "من لقطات عادية إلى <br>إلى <span class=\"hero__accent\">محتوى يبيع ويؤثر</span>",
       "heroSubtitle": "ريلز. تيكتوك. شورتس. مصممة لجذب الانتباه وزيادة التفاعل.",
       "heroBtnText": "شاهد أعمالي",
       "heroBtnContactText": "اطلب عرض سعر",
@@ -150,7 +150,7 @@
     "work": {
       "tag": "معرض الأعمال",
       "title": "أعمال مختارة",
-      "sub": "كل مشروع مصمم لإيقاف التمرير وزيادة التفاعل."
+      "sub": "كل مشروع مصمم لجذب الانتباه وزيادة التفاعل."
     },
     "services": {
       "tag": "ماذا أقدّم",
