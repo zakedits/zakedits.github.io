@@ -3,10 +3,7 @@
     "nav": {
       "work": "Work",
       "services": "Services",
-      "contact": "Let's Talk",
-      "about": "About",
-      "pricing": "Pricing",
-      "faq": "FAQ"
+      "contact": "Let's Talk"
     },
     "home": {
       "heroTag": "SHORT-FORM VIDEO EDITOR",
@@ -53,9 +50,7 @@
       "whatsappText": "WhatsApp"
     },
     "footer": {
-      "made": "Crafted with passion",
-      "role": "Short-form video editing for creators and brands",
-      "links": "Quick Links"
+      "made": "Crafted with passion"
     },
     "project": {
       "back": "← Back",
@@ -68,82 +63,13 @@
       "projectFiles": "Project Files",
       "videoSoon": "Video coming soon",
       "allProjects": "← All Projects"
-    },
-    "proof": {
-      "clients": "Fast communication",
-      "retention": "Retention-focused edits",
-      "delivery": "Creator-friendly workflow"
-    },
-    "about": {
-      "tag": "ABOUT",
-      "title": "A video editor focused on short-form performance",
-      "sub": "I help creators, brands, and businesses turn raw footage into clean, fast, high-retention edits built for Reels, TikTok, and Shorts.",
-      "card1Title": "Speed",
-      "card1Desc": "Fast turnaround without sacrificing polish or clarity.",
-      "card2Title": "Multilingual",
-      "card2Desc": "Edits and captions in English, French, and Arabic.",
-      "card3Title": "Strategy",
-      "card3Desc": "Hook-first pacing, captions, and structure designed for retention."
-    },
-    "testimonials": {
-      "tag": "SOCIAL PROOF",
-      "title": "What clients value most",
-      "sub": "Positioning examples you can later replace with real testimonials from your own clients.",
-      "t1Quote": "Fast, clear, and easy to work with. The edits felt sharper and much more professional.",
-      "t1Name": "Creator testimonial placeholder",
-      "t1Role": "Short-form content client",
-      "t2Quote": "Great pacing, clean captions, and strong attention to detail. Revisions were handled quickly.",
-      "t2Name": "Brand testimonial placeholder",
-      "t2Role": "Social media client",
-      "t3Quote": "The videos looked more premium and easier to watch on mobile. Strong improvement in presentation.",
-      "t3Name": "Business testimonial placeholder",
-      "t3Role": "Marketing content client"
-    },
-    "pricing": {
-      "tag": "PACKAGES",
-      "title": "Simple ways to work together",
-      "sub": "Use these as starter offers. You can adjust pricing later once you have more client demand.",
-      "starter": "Starter Edit",
-      "starterDesc": "Best for one-off short videos.",
-      "starterFeat1": "1 short-form edit",
-      "starterFeat2": "Captions included",
-      "starterFeat3": "1 revision round",
-      "starterFeat4": "Fast delivery",
-      "growth": "Content Pack",
-      "growthDesc": "Best for creators posting consistently.",
-      "growthFeat1": "5 edited short videos",
-      "growthFeat2": "Hook-first pacing",
-      "growthFeat3": "Caption styling",
-      "growthFeat4": "Priority turnaround",
-      "custom": "Custom Project",
-      "customDesc": "Best for brands, ads, and tailored workflows.",
-      "customFeat1": "Custom scope",
-      "customFeat2": "Ad creatives or campaigns",
-      "customFeat3": "Flexible deliverables",
-      "customFeat4": "Quote based on needs",
-      "cta": "Ask for a quote"
-    },
-    "faq": {
-      "tag": "FAQ",
-      "title": "Common client questions",
-      "q1": "What do you need to start?",
-      "a1": "Raw footage, a short brief, examples you like, and any brand guidelines if you have them.",
-      "q2": "Do you edit Arabic content too?",
-      "a2": "Yes. I can work with Arabic, English, and French captions and short-form edits.",
-      "q3": "How fast is delivery?",
-      "a3": "For many short-form projects, the first draft can be delivered quickly depending on scope and workload.",
-      "q4": "Do you offer revisions?",
-      "a4": "Yes. A revision round can be included depending on the package or custom agreement."
     }
   },
   "fr": {
     "nav": {
       "work": "Projets",
       "services": "Services",
-      "contact": "Contact",
-      "about": "À propos",
-      "pricing": "Tarifs",
-      "faq": "FAQ"
+      "contact": "Contact"
     },
     "home": {
       "heroTag": "MONTEUR VIDÉO SHORT-FORM",
@@ -190,9 +116,7 @@
       "whatsappText": "WhatsApp"
     },
     "footer": {
-      "made": "Conçu avec passion",
-      "role": "Montage vidéo format court pour créateurs et marques",
-      "links": "Liens rapides"
+      "made": "Réalisé avec passion"
     },
     "project": {
       "back": "← Retour",
@@ -205,82 +129,13 @@
       "projectFiles": "Fichiers du projet",
       "videoSoon": "Vidéo à venir",
       "allProjects": "← Tous les projets"
-    },
-    "proof": {
-      "clients": "Communication rapide",
-      "retention": "Montage orienté rétention",
-      "delivery": "Workflow simple pour créateurs"
-    },
-    "about": {
-      "tag": "À PROPOS",
-      "title": "Un monteur vidéo centré sur la performance du format court",
-      "sub": "J'aide les créateurs, les marques et les entreprises à transformer leurs rushs en montages propres, rapides et pensés pour les Reels, TikTok et Shorts.",
-      "card1Title": "Rapidité",
-      "card1Desc": "Livraison rapide sans sacrifier la qualité visuelle.",
-      "card2Title": "Multilingue",
-      "card2Desc": "Montage et sous-titres en anglais, français et arabe.",
-      "card3Title": "Stratégie",
-      "card3Desc": "Hooks, rythme et structure pensés pour retenir l’attention."
-    },
-    "testimonials": {
-      "tag": "PREUVE SOCIALE",
-      "title": "Ce que les clients apprécient le plus",
-      "sub": "Exemples de positionnement à remplacer plus tard par de vrais témoignages clients.",
-      "t1Quote": "Rapide, clair et très simple à gérer. Les montages étaient plus nets et plus professionnels.",
-      "t1Name": "Témoignage créateur (exemple)",
-      "t1Role": "Client contenu format court",
-      "t2Quote": "Excellent rythme, sous-titres propres et vrai souci du détail. Les révisions ont été rapides.",
-      "t2Name": "Témoignage marque (exemple)",
-      "t2Role": "Client réseaux sociaux",
-      "t3Quote": "Les vidéos paraissaient plus premium et plus agréables à regarder sur mobile.",
-      "t3Name": "Témoignage business (exemple)",
-      "t3Role": "Client marketing"
-    },
-    "pricing": {
-      "tag": "OFFRES",
-      "title": "Des façons simples de travailler ensemble",
-      "sub": "Utilise ces offres comme base de départ. Tu pourras ajuster les prix plus tard.",
-      "starter": "Montage Starter",
-      "starterDesc": "Idéal pour une vidéo courte ponctuelle.",
-      "starterFeat1": "1 montage format court",
-      "starterFeat2": "Sous-titres inclus",
-      "starterFeat3": "1 série de révisions",
-      "starterFeat4": "Livraison rapide",
-      "growth": "Pack Contenu",
-      "growthDesc": "Idéal pour les créateurs qui publient régulièrement.",
-      "growthFeat1": "5 vidéos courtes montées",
-      "growthFeat2": "Rythme pensé pour le hook",
-      "growthFeat3": "Style de sous-titres",
-      "growthFeat4": "Traitement prioritaire",
-      "custom": "Projet sur mesure",
-      "customDesc": "Idéal pour les marques, pubs et besoins spécifiques.",
-      "customFeat1": "Périmètre personnalisé",
-      "customFeat2": "Créatifs pub ou campagnes",
-      "customFeat3": "Livrables flexibles",
-      "customFeat4": "Devis selon le besoin",
-      "cta": "Demander un devis"
-    },
-    "faq": {
-      "tag": "FAQ",
-      "title": "Questions fréquentes",
-      "q1": "De quoi as-tu besoin pour commencer ?",
-      "a1": "J'ai besoin des rushs, d’un brief court, d’exemples que tu aimes et de tes consignes de marque si tu en as.",
-      "q2": "Tu montes aussi du contenu en arabe ?",
-      "a2": "Oui. Je peux travailler avec des montages et sous-titres en arabe, anglais et français.",
-      "q3": "Quel est le délai de livraison ?",
-      "a3": "Pour beaucoup de projets courts, un premier rendu peut être livré rapidement selon le volume et la charge.",
-      "q4": "Y a-t-il des révisions ?",
-      "a4": "Oui. Une série de révisions peut être incluse selon l’offre ou l’accord défini."
     }
   },
   "ar": {
     "nav": {
       "work": "أعمالي",
       "services": "الخدمات",
-      "contact": "تواصل معي",
-      "about": "من أنا",
-      "pricing": "الباقات",
-      "faq": "الأسئلة"
+      "contact": "تواصل معي"
     },
     "home": {
       "heroTag": "مونتير فيديوهات قصيرة",
@@ -327,9 +182,7 @@
       "whatsappText": "واتساب"
     },
     "footer": {
-      "made": "مصنوع بشغف",
-      "role": "مونتاج فيديو قصير لصناع المحتوى والعلامات التجارية",
-      "links": "روابط سريعة"
+      "made": "صُنع بشغف"
     },
     "project": {
       "back": "→ رجوع",
@@ -342,72 +195,6 @@
       "projectFiles": "ملفات المشروع",
       "videoSoon": "الفيديو قريباً",
       "allProjects": "→ جميع المشاريع"
-    },
-    "proof": {
-      "clients": "تواصل سريع",
-      "retention": "مونتاج يركز على الاحتفاظ",
-      "delivery": "طريقة عمل مناسبة لصناع المحتوى"
-    },
-    "about": {
-      "tag": "من أنا",
-      "title": "مونتير فيديو يركز على أداء المحتوى القصير",
-      "sub": "أساعد صناع المحتوى والعلامات التجارية والأعمال على تحويل اللقطات الخام إلى فيديوهات نظيفة وسريعة وعالية الاحتفاظ، مناسبة للريلز والتيكتوك والشورتس.",
-      "card1Title": "السرعة",
-      "card1Desc": "تنفيذ سريع من دون التضحية بالجودة أو الوضوح.",
-      "card2Title": "متعدد اللغات",
-      "card2Desc": "مونتاج وترجمة وعناوين بالإنجليزية والفرنسية والعربية.",
-      "card3Title": "الاستراتيجية",
-      "card3Desc": "بناء الهوك والإيقاع والبنية بطريقة تخدم الاحتفاظ بالمشاهد."
-    },
-    "testimonials": {
-      "tag": "الدليل الاجتماعي",
-      "title": "ما الذي يقدّره العملاء أكثر",
-      "sub": "يمكنك لاحقاً استبدال هذه الأمثلة بشهادات حقيقية من عملائك.",
-      "t1Quote": "التعامل كان سريعاً وواضحاً، والفيديوهات أصبحت أكثر احترافية وحدّة.",
-      "t1Name": "نموذج شهادة صانع محتوى",
-      "t1Role": "عميل محتوى قصير",
-      "t2Quote": "إيقاع ممتاز، عناوين مرتبة، واهتمام قوي بالتفاصيل. التعديلات تمت بسرعة.",
-      "t2Name": "نموذج شهادة علامة تجارية",
-      "t2Role": "عميل سوشال ميديا",
-      "t3Quote": "أصبح شكل الفيديوهات أكثر فخامة وأسهل للمشاهدة على الهاتف.",
-      "t3Name": "نموذج شهادة نشاط تجاري",
-      "t3Role": "عميل تسويق"
-    },
-    "pricing": {
-      "tag": "الباقات",
-      "title": "طرق بسيطة للعمل معاً",
-      "sub": "استخدم هذه الباقات كنقطة بداية، ويمكنك تعديل الأسعار لاحقاً حسب الطلب.",
-      "starter": "باقة البداية",
-      "starterDesc": "مناسبة للفيديوهات القصيرة المنفردة.",
-      "starterFeat1": "فيديو قصير واحد",
-      "starterFeat2": "إضافة عناوين",
-      "starterFeat3": "جولة تعديل واحدة",
-      "starterFeat4": "تسليم سريع",
-      "growth": "باقة المحتوى",
-      "growthDesc": "مناسبة لصناع المحتوى الذين ينشرون باستمرار.",
-      "growthFeat1": "5 فيديوهات قصيرة",
-      "growthFeat2": "إيقاع مبني على الهوك",
-      "growthFeat3": "تنسيق العناوين",
-      "growthFeat4": "أولوية في التنفيذ",
-      "custom": "مشروع مخصص",
-      "customDesc": "مناسبة للعلامات التجارية والإعلانات والاحتياجات الخاصة.",
-      "customFeat1": "نطاق عمل مخصص",
-      "customFeat2": "إعلانات أو حملات",
-      "customFeat3": "مخرجات مرنة",
-      "customFeat4": "سعر حسب الحاجة",
-      "cta": "اطلب عرض سعر"
-    },
-    "faq": {
-      "tag": "الأسئلة الشائعة",
-      "title": "أسئلة يطرحها العملاء كثيراً",
-      "q1": "ماذا تحتاج للبدء؟",
-      "a1": "أحتاج إلى اللقطات الخام، وشرح مختصر، وأمثلة تعجبك، وأي دليل بصري للعلامة إن وجد.",
-      "q2": "هل تعدّل محتوى باللغة العربية أيضاً؟",
-      "a2": "نعم، أستطيع العمل على محتوى وعناوين بالعربية والإنجليزية والفرنسية.",
-      "q3": "كم يستغرق التسليم؟",
-      "a3": "في كثير من مشاريع المحتوى القصير يمكن تسليم النسخة الأولى بسرعة حسب حجم العمل والطلب.",
-      "q4": "هل توجد تعديلات؟",
-      "a4": "نعم، يمكن تضمين جولة تعديلات بحسب الباقة أو الاتفاق."
     }
   }
 }
