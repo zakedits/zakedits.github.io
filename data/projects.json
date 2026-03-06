@@ -101,9 +101,9 @@
   "tags": ["Video Editing", "Short-Form Content", "Reels", "TikTok", "YouTube Shorts", "Social Media", "Motion Graphics", "Color Grading", "Sound Design", "Captions", "Kinetic Typography", "Transitions"],
   "tools": ["Adobe Premiere Pro", "After Effects", "DaVinci Resolve", "CapCut", "Photoshop", "Canva"],
   "thumbnail": "assets/css/images/test.webp",
-  "demoUrl": "",
-  "videoEmbedUrl": "",
-  "codeUrl": ""
+  "demo": "",
+  "videoEmbed": "",
+  "code": ""
 },
   {
     "id": "fitness-reels",
@@ -171,8 +171,8 @@
     },
     "tools": ["Premiere Pro", "After Effects", "CapCut"],
     "thumbnail": "",
-    "demoUrl": "",
-    "codeUrl": "",
+    "demo": "",
+    "code": "",
     "videoEmbed": ""
   },
   {
@@ -241,8 +241,8 @@
     },
     "tools": ["CapCut", "DaVinci Resolve", "Canva"],
     "thumbnail": "",
-    "demoUrl": "",
-    "codeUrl": "",
+    "demo": "",
+    "code": "",
     "videoEmbed": ""
   },
   {
@@ -311,8 +311,8 @@
     },
     "tools": ["Premiere Pro", "Photoshop", "Canva"],
     "thumbnail": "",
-    "demoUrl": "",
-    "codeUrl": "",
+    "demo": "",
+    "code": "",
     "videoEmbed": ""
   },
   {
@@ -381,8 +381,8 @@
     },
     "tools": ["After Effects", "CapCut", "Photoshop"],
     "thumbnail": "",
-    "demoUrl": "",
-    "codeUrl": "",
+    "demo": "",
+    "code": "",
     "videoEmbed": ""
   }
 ]
