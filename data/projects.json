@@ -1,138 +1,114 @@
 [
   {
-    "id": "AI Learning",
-    "year": 2026,
-    "category": {
-      "en": "Learning",
-      "fr": "Apprentissage",
-      "ar": "تعليم"
-    },
-    "title": {
-      "en": "10 advise for prompt engineering",
-      "fr": "10 conseils pour maîtriser le prompt engineering",
-      "ar": "10 نصائح لإتقان هندسة الأوامر (Prompt Engineering)"
-    },
-    "summary": {
-      "en": "This video explains how prompt engineering is the key skill for getting accurate and useful results from AI. Prompt engineering is essentially the process of designing clear instructions so AI models understand your intent and deliver the output you want.",
-      "fr": "Cette vidéo explique pourquoi le \"prompt engineering\" est la compétence clé pour obtenir des résultats précis et pertinents des IA. Il s'agit essentiellement de concevoir des instructions claires pour que les modèles d'IA comprennent votre intention et produisent le résultat escompté.",
-      "ar": "يشرح هذا الفيديو كيف تُعد هندسة الأوامر المهارة الأساسية للحصول على نتائج دقيقة ومفيدة من أنظمة الذكاء الاصطناعي. هندسة الأوامر هي ببساطة عملية تصميم تعليمات واضحة تضمن فهم نماذج الذكاء الاصطناعي لمقصدك وتقديم المخرجات التي ترغب بها."
-    },
-    "overview": {
-      "en": "The video shares 10 practical tips for writing better prompts. It starts by stressing clarity and specificity, showing that precise instructions produce better responses than vague ones. It also highlights structuring prompts clearly, defining roles for the AI, and specifying the desired format and tone to improve results. Other advice focuses on breaking complex tasks into steps, providing examples (few-shot prompting), and iterating on prompts to refine outputs. The video also warns about common mistakes like unclear wording or lack of context, which often lead to weak responses. Overall, the video presents prompt engineering as a practical skill that improves productivity, creativity, and accuracy when working with AI tools.",
-      "fr": "La vidéo partage 10 conseils pratiques pour rédiger de meilleurs prompts. Elle insiste d'abord sur la clarté et la précision, montrant que des instructions détaillées produisent de meilleures réponses que des demandes vagues. Elle souligne également l'importance de structurer les prompts, de définir des rôles pour l'IA et de spécifier le format ainsi que le ton souhaités pour optimiser les résultats. D'autres conseils portent sur la décomposition des tâches complexes en étapes, l'utilisation d'exemples (few-shot prompting) et l'itération pour affiner les sorties. Enfin, la vidéo met en garde contre les erreurs courantes comme le manque de contexte, qui mènent souvent à des réponses médiocres. Globalement, le prompt engineering est présenté comme un outil pratique boostant la productivité, la créativité et la précision lors de l'utilisation des outils d'IA.",
-      "ar": "يستعرض الفيديو 10 نصائح عملية لكتابة أوامر أفضل، مع التركيز في البداية على الوضوح والدقة، حيث يوضح أن التعليمات المحددة تنتج استجابات أفضل بكثير من الطلبات الغامضة. كما يسلط الضوء على أهمية هيكلة الأوامر بوضوح، وتحديد أدوار معينة للذكاء الاصطناعي، وتحديد التنسيق والنبرة المطلوبة لتحسين النتائج. وتتضمن النصائح الأخرى تقسيم المهام المعقدة إلى خطوات بسيطة، وتقديم أمثلة توضيحية (few-shot prompting)، وتكرار صياغة الأوامر لتحسين المخرجات. كما يحذر الفيديو من الأخطاء الشائعة مثل الصياغة غير الواضحة أو نقص السياق، والتي تؤدي غالباً إلى نتائج ضعيفة. في المجمل، يقدم الفيديو هندسة الأوامر كمهارة عملية تعزز الإنتاجية والإبداع والدقة عند التعامل مع أدوات الذكاء الاصطناعي."
-    },
-    "whatIDid": {
-      "en": [
-        "Edited raw footage into engaging short-form videos optimized for social platforms",
-        "Crafted pacing using jump cuts, match cuts, and rhythm-based editing",
-        "Synced cuts and transitions precisely to music beats",
-        "Designed motion graphics, captions, and kinetic typography",
-        "Applied color correction and cinematic color grading",
-        "Cleaned and enhanced audio (noise reduction, leveling, sound design)",
-        "Added B-roll and overlays to improve storytelling and flow",
-        "Created platform-optimized exports (Reels, TikTok, Shorts, 9:16)",
-        "Collaborated with clients to refine structure and messaging",
-        "Delivered fast revisions while maintaining consistent quality"
-      ],
-      "fr": [
-        "Montage des séquences brutes en vidéos courtes et dynamiques pour les réseaux sociaux.",
-        "Travail du rythme via des jump cuts, match cuts et un montage cadencé.",
-        "Synchronisation précise des coupes et transitions sur le rythme de la musique.",
-        "Création de graphismes animés, de sous-titres et de typographie cinétique.",
-        "Application d'une correction colorimétrique et d'un étalonnage cinématographique.",
-        "Nettoyage et optimisation audio (réduction de bruit, égalisation, sound design).",
-        "Ajout de B-roll et d'incrustations pour enrichir la narration et la fluidité.",
-        "Exportation de fichiers optimisés par plateforme (Reels, TikTok, Shorts, 9:16).",
-        "Collaboration avec les clients pour affiner la structure et le message.",
-        "Livraison rapide des révisions tout en garantissant une qualité constante."
-      ],
-      "ar": [
-        "تحويل اللقطات الخام إلى فيديوهات قصيرة وجذابة مخصصة لمنصات التواصل الاجتماعي.",
-        "ضبط إيقاع الفيديو باستخدام تقنيات القطع السريع (Jump Cuts) والقطع المتطابق (Match Cuts).",
-        "مزامنة الانتقالات واللقطات بدقة عالية مع إيقاع الموسيقى.",
-        "تصميم الرسوم المتحركة (Motion Graphics) والنصوص المتحركة والترجمة الديناميكية.",
-        "تطبيق التصحيح اللوني والتلوين السينمائي الاحترافي.",
-        "تنقية وتحسين الصوت (إزالة الضوضاء، موازنة المستويات، وهندسة المؤثرات الصوتية).",
-        "إضافة لقطات تكميلية (B-roll) وتراكبات بصرية لتعزيز السرد وانسيابية الفيديو.",
-        "تصدير الفيديوهات بصيغ محسنة لكل منصة (Reels, TikTok, Shorts, 9:16).",
-        "التعاون المباشر مع العملاء لتطوير هيكلية الفيديو والرسالة المرجوة.",
-        "تقديم التعديلات بسرعة وكفاءة مع الحفاظ على مستوى جودة ثابت ومتميز."
-      ]
-    },
-    "results": {
-      "en": [
-        "Increased average video views and watch time across platforms",
-        "Boosted engagement rates (likes, shares, comments, saves)",
-        "Improved audience retention and completion rates",
-        "Helped grow followers and subscribers organically",
-        "Delivered consistent brand visuals and storytelling quality",
-        "Supported higher-performing ad creatives and ROAS",
-        "Reduced turnaround time while maintaining quality",
-        "Strengthened client satisfaction and repeat bookings",
-        "Enhanced content reach through optimized formats and pacing",
-        "Contributed to measurable growth in overall account performance"
-      ],
-      "fr": [
-        "Augmentation des vues moyennes et du temps de visionnage sur toutes les plateformes.",
-        "Hausse des taux d'engagement (likes, partages, commentaires, enregistrements).",
-        "Amélioration de la rétention d'audience et du taux de complétion des vidéos.",
-        "Croissance organique du nombre d'abonnés et de followers.",
-        "Cohérence visuelle de la marque et qualité narrative constante.",
-        "Optimisation des performances publicitaires et du retour sur investissement (ROAS).",
-        "Réduction des délais de production sans compromis sur l'excellence.",
-        "Renforcement de la satisfaction client et fidélisation pour de nouveaux projets.",
-        "Extension de la portée du contenu grâce au formatage et au rythme optimisés.",
-        "Contribution à une croissance mesurable de la performance globale des comptes."
-      ],
-      "ar": [
-        "زيادة متوسط المشاهدات ووقت المشاهدة عبر مختلف المنصات.",
-        "رفع معدلات التفاعل (الإعجابات، المشاركات، التعليقات، والحفظ).",
-        "تحسين معدلات استبقاء الجمهور ونسبة إكمال مشاهدة الفيديو.",
-        "المساهمة في زيادة أعداد المتابعين والمشتركين بشكل طبيعي.",
-        "تقديم هوية بصرية وجودة سرد قصصي متسقة مع العلامة التجارية.",
-        "دعم الإعلانات لتقديم أداء أفضل وتحقيق عائد أعلى على الإنفاق الإعلاني (ROAS).",
-        "تقليص زمن التنفيذ مع الحفاظ على أعلى معايير الجودة.",
-        "تعزيز رضا العملاء وزيادة الطلبات المتكررة على الخدمة.",
-        "توسيع نطاق وصول المحتوى بفضل التنسيق والإيقاع المحسن.",
-        "المساهمة في نمو ملموس ومقاس في الأداء العام للحسابات."
-      ]
-    },
-    "tags": [
-      "Video Editing",
-      "Short-Form Content",
-      "Reels",
-      "TikTok",
-      "YouTube Shorts",
-      "Social Media",
-      "Motion Graphics",
-      "Color Grading",
-      "Sound Design",
-      "Captions",
-      "Kinetic Typography",
-      "Transitions"
-    ],
-    "tools": [
-      "Adobe Premiere Pro",
-      "After Effects",
-      "DaVinci Resolve",
-      "CapCut",
-      "Photoshop",
-      "Canva"
-    ],
-    "thumbnail": "assets/css/images/test.webp",
-    "demo": "",
-    "videoEmbed": "",
-    "code": ""
+  "id": "AI Learning",
+  "year": 2026,
+  "category": {
+    "en": "Learning",
+    "fr": "Apprentissage",
+    "ar": "تعليم"
   },
+  "title": {
+    "en": "10 advise for prompt engineering",
+    "fr": "10 conseils pour maîtriser le prompt engineering",
+    "ar": "10 نصائح لإتقان هندسة الأوامر (Prompt Engineering)"
+  },
+  "summary": {
+    "en": "This video explains how prompt engineering is the key skill for getting accurate and useful results from AI. Prompt engineering is essentially the process of designing clear instructions so AI models understand your intent and deliver the output you want.",
+    "fr": "Cette vidéo explique pourquoi le \"prompt engineering\" est la compétence clé pour obtenir des résultats précis et pertinents des IA. Il s'agit essentiellement de concevoir des instructions claires pour que les modèles d'IA comprennent votre intention et produisent le résultat escompté.",
+    "ar": "يشرح هذا الفيديو كيف تُعد هندسة الأوامر المهارة الأساسية للحصول على نتائج دقيقة ومفيدة من أنظمة الذكاء الاصطناعي. هندسة الأوامر هي ببساطة عملية تصميم تعليمات واضحة تضمن فهم نماذج الذكاء الاصطناعي لمقصدك وتقديم المخرجات التي ترغب بها."
+  },
+  "overview": {
+    "en": "The video shares 10 practical tips for writing better prompts. It starts by stressing clarity and specificity, showing that precise instructions produce better responses than vague ones. It also highlights structuring prompts clearly, defining roles for the AI, and specifying the desired format and tone to improve results. Other advice focuses on breaking complex tasks into steps, providing examples (few-shot prompting), and iterating on prompts to refine outputs. The video also warns about common mistakes like unclear wording or lack of context, which often lead to weak responses. Overall, the video presents prompt engineering as a practical skill that improves productivity, creativity, and accuracy when working with AI tools.",
+    "fr": "La vidéo partage 10 conseils pratiques pour rédiger de meilleurs prompts. Elle insiste d'abord sur la clarté et la précision, montrant que des instructions détaillées produisent de meilleures réponses que des demandes vagues. Elle souligne également l'importance de structurer les prompts, de définir des rôles pour l'IA et de spécifier le format ainsi que le ton souhaités pour optimiser les résultats. D'autres conseils portent sur la décomposition des tâches complexes en étapes, l'utilisation d'exemples (few-shot prompting) et l'itération pour affiner les sorties. Enfin, la vidéo met en garde contre les erreurs courantes comme le manque de contexte, qui mènent souvent à des réponses médiocres. Globalement, le prompt engineering est présenté comme un outil pratique boostant la productivité, la créativité et la précision lors de l'utilisation des outils d'IA.",
+    "ar": "يستعرض الفيديو 10 نصائح عملية لكتابة أوامر أفضل، مع التركيز في البداية على الوضوح والدقة، حيث يوضح أن التعليمات المحددة تنتج استجابات أفضل بكثير من الطلبات الغامضة. كما يسلط الضوء على أهمية هيكلة الأوامر بوضوح، وتحديد أدوار معينة للذكاء الاصطناعي، وتحديد التنسيق والنبرة المطلوبة لتحسين النتائج. وتتضمن النصائح الأخرى تقسيم المهام المعقدة إلى خطوات بسيطة، وتقديم أمثلة توضيحية (few-shot prompting)، وتكرار صياغة الأوامر لتحسين المخرجات. كما يحذر الفيديو من الأخطاء الشائعة مثل الصياغة غير الواضحة أو نقص السياق، والتي تؤدي غالباً إلى نتائج ضعيفة. في المجمل، يقدم الفيديو هندسة الأوامر كمهارة عملية تعزز الإنتاجية والإبداع والدقة عند التعامل مع أدوات الذكاء الاصطناعي."
+  },
+  "whatIDid": {
+    "en": [
+      "Edited raw footage into engaging short-form videos optimized for social platforms",
+      "Crafted pacing using jump cuts, match cuts, and rhythm-based editing",
+      "Synced cuts and transitions precisely to music beats",
+      "Designed motion graphics, captions, and kinetic typography",
+      "Applied color correction and cinematic color grading",
+      "Cleaned and enhanced audio (noise reduction, leveling, sound design)",
+      "Added B-roll and overlays to improve storytelling and flow",
+      "Created platform-optimized exports (Reels, TikTok, Shorts, 9:16)",
+      "Collaborated with clients to refine structure and messaging",
+      "Delivered fast revisions while maintaining consistent quality"
+    ],
+    "fr": [
+      "Montage des séquences brutes en vidéos courtes et dynamiques pour les réseaux sociaux.",
+      "Travail du rythme via des jump cuts, match cuts et un montage cadencé.",
+      "Synchronisation précise des coupes et transitions sur le rythme de la musique.",
+      "Création de graphismes animés, de sous-titres et de typographie cinétique.",
+      "Application d'une correction colorimétrique et d'un étalonnage cinématographique.",
+      "Nettoyage et optimisation audio (réduction de bruit, égalisation, sound design).",
+      "Ajout de B-roll et d'incrustations pour enrichir la narration et la fluidité.",
+      "Exportation de fichiers optimisés par plateforme (Reels, TikTok, Shorts, 9:16).",
+      "Collaboration avec les clients pour affiner la structure et le message.",
+      "Livraison rapide des révisions tout en garantissant une qualité constante."
+    ],
+    "ar": [
+      "تحويل اللقطات الخام إلى فيديوهات قصيرة وجذابة مخصصة لمنصات التواصل الاجتماعي.",
+      "ضبط إيقاع الفيديو باستخدام تقنيات القطع السريع (Jump Cuts) والقطع المتطابق (Match Cuts).",
+      "مزامنة الانتقالات واللقطات بدقة عالية مع إيقاع الموسيقى.",
+      "تصميم الرسوم المتحركة (Motion Graphics) والنصوص المتحركة والترجمة الديناميكية.",
+      "تطبيق التصحيح اللوني والتلوين السينمائي الاحترافي.",
+      "تنقية وتحسين الصوت (إزالة الضوضاء، موازنة المستويات، وهندسة المؤثرات الصوتية).",
+      "إضافة لقطات تكميلية (B-roll) وتراكبات بصرية لتعزيز السرد وانسيابية الفيديو.",
+      "تصدير الفيديوهات بصيغ محسنة لكل منصة (Reels, TikTok, Shorts, 9:16).",
+      "التعاون المباشر مع العملاء لتطوير هيكلية الفيديو والرسالة المرجوة.",
+      "تقديم التعديلات بسرعة وكفاءة مع الحفاظ على مستوى جودة ثابت ومتميز."
+    ]
+  },
+  "results": {
+    "en": [
+      "Increased average video views and watch time across platforms",
+      "Boosted engagement rates (likes, shares, comments, saves)",
+      "Improved audience retention and completion rates",
+      "Helped grow followers and subscribers organically",
+      "Delivered consistent brand visuals and storytelling quality",
+      "Supported higher-performing ad creatives and ROAS",
+      "Reduced turnaround time while maintaining quality",
+      "Strengthened client satisfaction and repeat bookings",
+      "Enhanced content reach through optimized formats and pacing",
+      "Contributed to measurable growth in overall account performance"
+    ],
+    "fr": [
+      "Augmentation des vues moyennes et du temps de visionnage sur toutes les plateformes.",
+      "Hausse des taux d'engagement (likes, partages, commentaires, enregistrements).",
+      "Amélioration de la rétention d'audience et du taux de complétion des vidéos.",
+      "Croissance organique du nombre d'abonnés et de followers.",
+      "Cohérence visuelle de la marque et qualité narrative constante.",
+      "Optimisation des performances publicitaires et du retour sur investissement (ROAS).",
+      "Réduction des délais de production sans compromis sur l'excellence.",
+      "Renforcement de la satisfaction client et fidélisation pour de nouveaux projets.",
+      "Extension de la portée du contenu grâce au formatage et au rythme optimisés.",
+      "Contribution à une croissance mesurable de la performance globale des comptes."
+    ],
+    "ar": [
+      "زيادة متوسط المشاهدات ووقت المشاهدة عبر مختلف المنصات.",
+      "رفع معدلات التفاعل (الإعجابات، المشاركات، التعليقات، والحفظ).",
+      "تحسين معدلات استبقاء الجمهور ونسبة إكمال مشاهدة الفيديو.",
+      "المساهمة في زيادة أعداد المتابعين والمشتركين بشكل طبيعي.",
+      "تقديم هوية بصرية وجودة سرد قصصي متسقة مع العلامة التجارية.",
+      "دعم الإعلانات لتقديم أداء أفضل وتحقيق عائد أعلى على الإنفاق الإعلاني (ROAS).",
+      "تقليص زمن التنفيذ مع الحفاظ على أعلى معايير الجودة.",
+      "تعزيز رضا العملاء وزيادة الطلبات المتكررة على الخدمة.",
+      "توسيع نطاق وصول المحتوى بفضل التنسيق والإيقاع المحسن.",
+      "المساهمة في نمو ملموس ومقاس في الأداء العام للحسابات."
+    ]
+  },
+  "tags": ["Video Editing", "Short-Form Content", "Reels", "TikTok", "YouTube Shorts", "Social Media", "Motion Graphics", "Color Grading", "Sound Design", "Captions", "Kinetic Typography", "Transitions"],
+  "tools": ["Adobe Premiere Pro", "After Effects", "DaVinci Resolve", "CapCut", "Photoshop", "Canva"],
+  "thumbnail": "assets/css/images/test.webp",
+  "demo": "",
+  "videoEmbed": "",
+  "code": ""
+},
   {
     "id": "fitness-reels",
     "year": "2025",
-    "tags": [
-      "Premiere Pro",
-      "After Effects",
-      "Reels"
-    ],
+    "tags": ["Premiere Pro", "After Effects", "Reels"],
     "category": {
       "en": "Fitness",
       "fr": "Fitness",
@@ -193,11 +169,7 @@
         "العميل حجز حزمة ثانية للشهر التالي"
       ]
     },
-    "tools": [
-      "Premiere Pro",
-      "After Effects",
-      "CapCut"
-    ],
+    "tools": ["Premiere Pro", "After Effects", "CapCut"],
     "thumbnail": "",
     "demo": "",
     "code": "",
@@ -206,11 +178,7 @@
   {
     "id": "restaurant-tiktoks",
     "year": "2025",
-    "tags": [
-      "CapCut",
-      "DaVinci Resolve",
-      "TikTok"
-    ],
+    "tags": ["CapCut", "DaVinci Resolve", "TikTok"],
     "category": {
       "en": "Food & Restaurant",
       "fr": "Restaurant",
@@ -271,11 +239,7 @@
         "الحساب نما من 200 إلى 5 آلاف متابع في 6 أسابيع"
       ]
     },
-    "tools": [
-      "CapCut",
-      "DaVinci Resolve",
-      "Canva"
-    ],
+    "tools": ["CapCut", "DaVinci Resolve", "Canva"],
     "thumbnail": "",
     "demo": "",
     "code": "",
@@ -284,11 +248,7 @@
   {
     "id": "personal-brand-shorts",
     "year": "2024",
-    "tags": [
-      "Premiere Pro",
-      "Photoshop",
-      "Shorts"
-    ],
+    "tags": ["Premiere Pro", "Photoshop", "Shorts"],
     "category": {
       "en": "Personal Brand",
       "fr": "Marque personnelle",
@@ -349,11 +309,7 @@
         "العميل وقّع عقد مونتاج شهري طويل الأمد"
       ]
     },
-    "tools": [
-      "Premiere Pro",
-      "Photoshop",
-      "Canva"
-    ],
+    "tools": ["Premiere Pro", "Photoshop", "Canva"],
     "thumbnail": "",
     "demo": "",
     "code": "",
@@ -362,11 +318,7 @@
   {
     "id": "ecommerce-ads",
     "year": "2024",
-    "tags": [
-      "After Effects",
-      "CapCut",
-      "Ads"
-    ],
+    "tags": ["After Effects", "CapCut", "Ads"],
     "category": {
       "en": "E-Commerce",
       "fr": "E-Commerce",
@@ -427,11 +379,7 @@
         "العلامة أفادت بزيادة 40% في حركة المرور على الموقع من وسائل التواصل"
       ]
     },
-    "tools": [
-      "After Effects",
-      "CapCut",
-      "Photoshop"
-    ],
+    "tools": ["After Effects", "CapCut", "Photoshop"],
     "thumbnail": "",
     "demo": "",
     "code": "",
