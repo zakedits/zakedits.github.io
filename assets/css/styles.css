@@ -452,7 +452,7 @@ body:not(.loaded) .hero__scroll {
 .project-card__thumb {
   position: relative;
   aspect-ratio: 16/9;
-  background: var(--surface);
+  background-color: var(--surface);
   background-size: cover;
   background-position: center;
   overflow: hidden;
