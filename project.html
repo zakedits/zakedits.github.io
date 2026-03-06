@@ -214,14 +214,8 @@
     });
 
     // Links
-    const demoLink = p.demo || p.demoUrl || "";
-    const codeLink = p.code || p.codeUrl || "";
-    const demoBtn = document.getElementById("linkDemo");
-    const codeBtn = document.getElementById("linkCode");
-    if (demoLink) { setHref("linkDemo", demoLink); demoBtn.style.display = ""; }
-    else { demoBtn.style.display = "none"; }
-    if (codeLink) { setHref("linkCode", codeLink); codeBtn.style.display = ""; }
-    else { codeBtn.style.display = "none"; }
+    setHref("linkDemo", p.demoUrl);
+    setHref("linkCode", p.codeUrl);
 
     document.getElementById("year").textContent = new Date().getFullYear();
     setText("footerBack", t("project.allProjects"));
