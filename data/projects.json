@@ -100,7 +100,7 @@
   },
   "tags": ["Video Editing", "Short-Form Content", "Reels", "TikTok", "YouTube Shorts", "Social Media", "Motion Graphics", "Color Grading", "Sound Design", "Captions", "Kinetic Typography", "Transitions"],
   "tools": ["Adobe Premiere Pro", "After Effects", "DaVinci Resolve", "CapCut", "Photoshop", "Canva"],
-  "thumbnailUrl": "assets/css/images/test.webp",
+  "thumbnailUrl": "../assets/css/images/test.webp",
   "demoUrl": "",
   "videoEmbedUrl": "",
   "codeUrl": ""
