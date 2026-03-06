@@ -5,21 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Zakaria Okdeh — Video Editor</title>
   <meta name="description" content="Short-form video editor specializing in Reels, TikTok & Shorts. Let's make your content stand out.">
-
-  <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,400&display=swap" rel="stylesheet">
-
-  <!-- Icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
   <link rel="stylesheet" href="assets/css/styles.css">
 </head>
-
 <body>
 
-<!-- ===== NAV ===== -->
 <nav class="nav" id="mainNav">
   <div class="nav__inner">
     <a class="nav__logo" href="index.html">
@@ -27,8 +20,11 @@
       <span>ZAKEDITS</span>
     </a>
     <div class="nav__right">
+      <a href="#about" class="nav__link" id="navAbout">About</a>
       <a href="#work" class="nav__link" id="navWork">Work</a>
       <a href="#services" class="nav__link" id="navServices">Services</a>
+      <a href="#pricing" class="nav__link" id="navPricing">Pricing</a>
+      <a href="#faq" class="nav__link" id="navFaq">FAQ</a>
       <a href="#contact" class="nav__link nav__link--cta" id="navContact">Let's Talk</a>
       <select id="langSelect" class="nav__lang">
         <option value="en">EN</option>
@@ -42,45 +38,74 @@
   </div>
 </nav>
 
-<!-- Mobile menu -->
 <div class="mobile-menu" id="mobileMenu">
+  <a href="#about" class="mobile-menu__link" id="mNavAbout">About</a>
   <a href="#work" class="mobile-menu__link" id="mNavWork">Work</a>
   <a href="#services" class="mobile-menu__link" id="mNavServices">Services</a>
+  <a href="#pricing" class="mobile-menu__link" id="mNavPricing">Pricing</a>
+  <a href="#faq" class="mobile-menu__link" id="mNavFaq">FAQ</a>
   <a href="#contact" class="mobile-menu__link" id="mNavContact">Let's Talk</a>
 </div>
 
-<!-- ===== HERO ===== -->
 <section class="hero">
   <div class="hero__bg">
     <div class="hero__grain"></div>
     <div class="hero__gradient"></div>
   </div>
-  <div class="hero__content">
-    <div class="hero__tag" id="heroTag">SHORT-FORM VIDEO EDITOR</div>
-    <h1 class="hero__title" id="heroTitle">I turn raw footage<br>into <span class="hero__accent">scroll-stoppers</span></h1>
-    <p class="hero__sub" id="heroSubtitle">Reels. TikToks. Shorts. Crafted to hook, hold, and convert.</p>
-    <div class="hero__ctas">
-      <a href="#work" class="btn btn--primary" id="heroBtn">
-        <span id="heroBtnText">See My Work</span>
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17l9.2-9.2M7 7h9.2v9.2"/></svg>
-      </a>
-      <a href="#contact" class="btn btn--ghost" id="heroBtnContact">
-        <span id="heroBtnContactText">Get a Quote</span>
-      </a>
+  <div class="hero__content hero__content--split">
+    <div class="hero__copy">
+      <div class="hero__tag" id="heroTag">SHORT-FORM VIDEO EDITOR</div>
+      <h1 class="hero__title" id="heroTitle">I turn raw footage<br>into <span class="hero__accent">scroll-stoppers</span></h1>
+      <p class="hero__sub" id="heroSubtitle">Reels. TikToks. Shorts. Crafted to hook, hold, and convert.</p>
+      <div class="hero__ctas">
+        <a href="#work" class="btn btn--primary" id="heroBtn">
+          <span id="heroBtnText">See My Work</span>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17l9.2-9.2M7 7h9.2v9.2"/></svg>
+        </a>
+        <a href="#contact" class="btn btn--ghost" id="heroBtnContact">
+          <span id="heroBtnContactText">Get a Quote</span>
+        </a>
+      </div>
+      <div class="hero__stats">
+        <div class="hero__stat">
+          <span class="hero__stat-num">50+</span>
+          <span class="hero__stat-label" id="statProjects">Projects Delivered</span>
+        </div>
+        <div class="hero__stat">
+          <span class="hero__stat-num">&lt;24h</span>
+          <span class="hero__stat-label" id="statTurnaround">Turnaround Time</span>
+        </div>
+        <div class="hero__stat">
+          <span class="hero__stat-num">3</span>
+          <span class="hero__stat-label" id="statLanguages">Languages</span>
+        </div>
+      </div>
     </div>
 
-    <div class="hero__stats">
-      <div class="hero__stat">
-        <span class="hero__stat-num">50+</span>
-        <span class="hero__stat-label" id="statProjects">Projects Delivered</span>
-      </div>
-      <div class="hero__stat">
-        <span class="hero__stat-num">&lt;24h</span>
-        <span class="hero__stat-label" id="statTurnaround">Turnaround Time</span>
-      </div>
-      <div class="hero__stat">
-        <span class="hero__stat-num">3</span>
-        <span class="hero__stat-label" id="statLanguages">Languages</span>
+    <div class="hero-panel reveal">
+      <div class="hero-panel__label">Why clients choose this style</div>
+      <div class="hero-panel__list">
+        <div class="hero-panel__item">
+          <i class="fa-solid fa-bolt"></i>
+          <div>
+            <strong id="proofClients">Fast communication</strong>
+            <span>Quick responses and clear workflow.</span>
+          </div>
+        </div>
+        <div class="hero-panel__item">
+          <i class="fa-solid fa-chart-line"></i>
+          <div>
+            <strong id="proofRetention">Retention-focused edits</strong>
+            <span>Hook, pacing, captions, and structure built for short-form platforms.</span>
+          </div>
+        </div>
+        <div class="hero-panel__item">
+          <i class="fa-solid fa-layer-group"></i>
+          <div>
+            <strong id="proofDelivery">Creator-friendly workflow</strong>
+            <span>Clean revisions, mobile-first output, and platform-ready delivery.</span>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -89,10 +114,45 @@
   </div>
 </section>
 
-<!-- ===== WORK / PORTFOLIO ===== -->
+<section class="proof-strip section section--tight">
+  <div class="container">
+    <div class="proof-strip__grid">
+      <div class="proof-pill"><i class="fa-solid fa-bolt"></i><span id="proofClients2">Fast communication</span></div>
+      <div class="proof-pill"><i class="fa-solid fa-chart-simple"></i><span id="proofRetention2">Retention-focused edits</span></div>
+      <div class="proof-pill"><i class="fa-solid fa-mobile-screen-button"></i><span id="proofDelivery2">Creator-friendly workflow</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="about">
+  <div class="container">
+    <div class="about-grid">
+      <div class="section__header section__header--left reveal">
+        <span class="section__tag" id="aboutTag">ABOUT</span>
+        <h2 class="section__title" id="aboutTitle">A video editor focused on short-form performance</h2>
+        <p class="section__sub" id="aboutSub">I help creators, brands, and businesses turn raw footage into clean, fast, high-retention edits built for Reels, TikTok, and Shorts.</p>
+      </div>
+      <div class="about-cards reveal">
+        <div class="mini-card">
+          <h3 id="aboutCard1Title">Speed</h3>
+          <p id="aboutCard1Desc">Fast turnaround without sacrificing polish or clarity.</p>
+        </div>
+        <div class="mini-card">
+          <h3 id="aboutCard2Title">Multilingual</h3>
+          <p id="aboutCard2Desc">Edits and captions in English, French, and Arabic.</p>
+        </div>
+        <div class="mini-card">
+          <h3 id="aboutCard3Title">Strategy</h3>
+          <p id="aboutCard3Desc">Hook-first pacing, captions, and structure designed for retention.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="section" id="work">
   <div class="container">
-    <div class="section__header">
+    <div class="section__header reveal">
       <span class="section__tag" id="workTag">PORTFOLIO</span>
       <h2 class="section__title" id="workTitle">Selected Work</h2>
       <p class="section__sub" id="workSub">Each project crafted to stop the scroll and drive engagement.</p>
@@ -101,30 +161,29 @@
   </div>
 </section>
 
-<!-- ===== SERVICES ===== -->
 <section class="section section--alt" id="services">
   <div class="container">
-    <div class="section__header">
+    <div class="section__header reveal">
       <span class="section__tag" id="servicesTag">WHAT I DO</span>
       <h2 class="section__title" id="servicesTitle">Services</h2>
     </div>
     <div class="services-grid">
-      <div class="service-card">
+      <div class="service-card reveal">
         <div class="service-card__icon"><i class="fa-solid fa-mobile-screen"></i></div>
         <h3 class="service-card__title" id="svc1Title">Reels & TikToks</h3>
         <p class="service-card__desc" id="svc1Desc">Hook-driven short videos with trending transitions, captions, and sound design that boost engagement.</p>
       </div>
-      <div class="service-card">
+      <div class="service-card reveal">
         <div class="service-card__icon"><i class="fa-solid fa-wand-magic-sparkles"></i></div>
         <h3 class="service-card__title" id="svc2Title">Motion & Effects</h3>
         <p class="service-card__desc" id="svc2Desc">Kinetic text, smooth zoom cuts, custom transitions, and visual effects that make your brand pop.</p>
       </div>
-      <div class="service-card">
+      <div class="service-card reveal">
         <div class="service-card__icon"><i class="fa-solid fa-closed-captioning"></i></div>
         <h3 class="service-card__title" id="svc3Title">Captions & Subtitles</h3>
         <p class="service-card__desc" id="svc3Desc">Animated captions in English, French, and Arabic. Accessibility meets style — auto-synced and branded.</p>
       </div>
-      <div class="service-card">
+      <div class="service-card reveal">
         <div class="service-card__icon"><i class="fa-solid fa-palette"></i></div>
         <h3 class="service-card__title" id="svc4Title">Color Grading</h3>
         <p class="service-card__desc" id="svc4Desc">Cinematic color correction that gives your content a consistent, professional aesthetic across all posts.</p>
@@ -133,25 +192,103 @@
   </div>
 </section>
 
-<!-- ===== PROCESS ===== -->
+<section class="section" id="testimonials">
+  <div class="container">
+    <div class="section__header reveal">
+      <span class="section__tag" id="testimonialsTag">SOCIAL PROOF</span>
+      <h2 class="section__title" id="testimonialsTitle">What clients value most</h2>
+      <p class="section__sub" id="testimonialsSub">Positioning examples you can later replace with real testimonials from your own clients.</p>
+    </div>
+    <div class="testimonial-grid">
+      <article class="testimonial-card reveal">
+        <p class="testimonial-card__quote" id="testimonialsQ1">Fast, clear, and easy to work with. The edits felt sharper and much more professional.</p>
+        <div class="testimonial-card__meta">
+          <strong id="testimonialsN1">Creator testimonial placeholder</strong>
+          <span id="testimonialsR1">Short-form content client</span>
+        </div>
+      </article>
+      <article class="testimonial-card reveal">
+        <p class="testimonial-card__quote" id="testimonialsQ2">Great pacing, clean captions, and strong attention to detail. Revisions were handled quickly.</p>
+        <div class="testimonial-card__meta">
+          <strong id="testimonialsN2">Brand testimonial placeholder</strong>
+          <span id="testimonialsR2">Social media client</span>
+        </div>
+      </article>
+      <article class="testimonial-card reveal">
+        <p class="testimonial-card__quote" id="testimonialsQ3">The videos looked more premium and easier to watch on mobile. Strong improvement in presentation.</p>
+        <div class="testimonial-card__meta">
+          <strong id="testimonialsN3">Business testimonial placeholder</strong>
+          <span id="testimonialsR3">Marketing content client</span>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section section--alt" id="pricing">
+  <div class="container">
+    <div class="section__header reveal">
+      <span class="section__tag" id="pricingTag">PACKAGES</span>
+      <h2 class="section__title" id="pricingTitle">Simple ways to work together</h2>
+      <p class="section__sub" id="pricingSub">Use these as starter offers. You can adjust pricing later once you have more client demand.</p>
+    </div>
+    <div class="pricing-grid">
+      <article class="pricing-card reveal">
+        <h3 id="pricingStarter">Starter Edit</h3>
+        <p class="pricing-card__desc" id="pricingStarterDesc">Best for one-off short videos.</p>
+        <ul class="pricing-card__list">
+          <li id="pricingStarterFeat1">1 short-form edit</li>
+          <li id="pricingStarterFeat2">Captions included</li>
+          <li id="pricingStarterFeat3">1 revision round</li>
+          <li id="pricingStarterFeat4">Fast delivery</li>
+        </ul>
+        <a href="#contact" class="btn btn--ghost btn--full" id="pricingCta1">Ask for a quote</a>
+      </article>
+      <article class="pricing-card pricing-card--featured reveal">
+        <div class="pricing-badge">Popular</div>
+        <h3 id="pricingGrowth">Content Pack</h3>
+        <p class="pricing-card__desc" id="pricingGrowthDesc">Best for creators posting consistently.</p>
+        <ul class="pricing-card__list">
+          <li id="pricingGrowthFeat1">5 edited short videos</li>
+          <li id="pricingGrowthFeat2">Hook-first pacing</li>
+          <li id="pricingGrowthFeat3">Caption styling</li>
+          <li id="pricingGrowthFeat4">Priority turnaround</li>
+        </ul>
+        <a href="#contact" class="btn btn--primary btn--full" id="pricingCta2">Ask for a quote</a>
+      </article>
+      <article class="pricing-card reveal">
+        <h3 id="pricingCustom">Custom Project</h3>
+        <p class="pricing-card__desc" id="pricingCustomDesc">Best for brands, ads, and tailored workflows.</p>
+        <ul class="pricing-card__list">
+          <li id="pricingCustomFeat1">Custom scope</li>
+          <li id="pricingCustomFeat2">Ad creatives or campaigns</li>
+          <li id="pricingCustomFeat3">Flexible deliverables</li>
+          <li id="pricingCustomFeat4">Quote based on needs</li>
+        </ul>
+        <a href="#contact" class="btn btn--ghost btn--full" id="pricingCta3">Ask for a quote</a>
+      </article>
+    </div>
+  </div>
+</section>
+
 <section class="section" id="process">
   <div class="container">
-    <div class="section__header">
+    <div class="section__header reveal">
       <span class="section__tag" id="processTag">HOW IT WORKS</span>
       <h2 class="section__title" id="processTitle">Simple Process</h2>
     </div>
     <div class="process-grid">
-      <div class="process-step">
+      <div class="process-step reveal">
         <span class="process-step__num">01</span>
         <h3 class="process-step__title" id="step1Title">Send Your Footage</h3>
         <p class="process-step__desc" id="step1Desc">Share your raw clips, reference edits, and any brand guidelines via Google Drive or WeTransfer.</p>
       </div>
-      <div class="process-step">
+      <div class="process-step reveal">
         <span class="process-step__num">02</span>
         <h3 class="process-step__title" id="step2Title">I Edit & Refine</h3>
         <p class="process-step__desc" id="step2Desc">I craft your video with hooks, pacing, transitions, music, and captions — all optimized for your platform.</p>
       </div>
-      <div class="process-step">
+      <div class="process-step reveal">
         <span class="process-step__num">03</span>
         <h3 class="process-step__title" id="step3Title">Review & Deliver</h3>
         <p class="process-step__desc" id="step3Desc">You get the first draft within 24 hours. One round of revisions included — then it's ready to post.</p>
@@ -160,10 +297,40 @@
   </div>
 </section>
 
-<!-- ===== CTA / CONTACT ===== -->
+<section class="section section--alt" id="faq">
+  <div class="container faq-shell">
+    <div class="section__header section__header--left reveal">
+      <span class="section__tag" id="faqTag">FAQ</span>
+      <h2 class="section__title" id="faqTitle">Common client questions</h2>
+    </div>
+    <div class="faq-list">
+      <button class="faq-item reveal" type="button">
+        <span id="faqQ1">What do you need to start?</span>
+        <i class="fa-solid fa-plus"></i>
+        <div class="faq-item__answer" id="faqA1">Raw footage, a short brief, examples you like, and any brand guidelines if you have them.</div>
+      </button>
+      <button class="faq-item reveal" type="button">
+        <span id="faqQ2">Do you edit Arabic content too?</span>
+        <i class="fa-solid fa-plus"></i>
+        <div class="faq-item__answer" id="faqA2">Yes. I can work with Arabic, English, and French captions and short-form edits.</div>
+      </button>
+      <button class="faq-item reveal" type="button">
+        <span id="faqQ3">How fast is delivery?</span>
+        <i class="fa-solid fa-plus"></i>
+        <div class="faq-item__answer" id="faqA3">For many short-form projects, the first draft can be delivered quickly depending on scope and workload.</div>
+      </button>
+      <button class="faq-item reveal" type="button">
+        <span id="faqQ4">Do you offer revisions?</span>
+        <i class="fa-solid fa-plus"></i>
+        <div class="faq-item__answer" id="faqA4">Yes. A revision round can be included depending on the package or custom agreement.</div>
+      </button>
+    </div>
+  </div>
+</section>
+
 <section class="section section--cta" id="contact">
   <div class="container">
-    <div class="cta-block">
+    <div class="cta-block reveal">
       <span class="section__tag" id="ctaTag">READY?</span>
       <h2 class="cta-block__title" id="ctaTitle">Let's make your<br>content go viral</h2>
       <p class="cta-block__sub" id="ctaSub">Drop me a message and let's talk about your next project.</p>
@@ -186,25 +353,43 @@
   </div>
 </section>
 
-<!-- ===== FOOTER ===== -->
-<footer class="footer">
+<footer class="footer footer--rich">
+  <div class="container footer__grid">
+    <div>
+      <div class="nav__logo footer__brand">
+        <span class="nav__logo-dot"></span>
+        <span>ZAKEDITS</span>
+      </div>
+      <p class="footer__role" id="footerRole">Short-form video editing for creators and brands</p>
+    </div>
+    <div>
+      <h3 class="footer__heading" id="footerLinks">Quick Links</h3>
+      <div class="footer__links">
+        <a href="#about">About</a>
+        <a href="#work">Work</a>
+        <a href="#pricing">Pricing</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </div>
+    <div>
+      <h3 class="footer__heading">Socials</h3>
+      <div class="footer__links">
+        <a href="https://www.instagram.com/zak1edits" target="_blank">Instagram</a>
+        <a href="https://www.tiktok.com/@zak1edits" target="_blank">TikTok</a>
+        <a href="https://www.youtube.com/@zak1edits" target="_blank">YouTube</a>
+      </div>
+    </div>
+  </div>
   <div class="container footer__inner">
     <span id="footerCopy">© <span id="year"></span> Zakaria Okdeh</span>
     <span class="footer__made" id="footerMade">Crafted with passion</span>
   </div>
 </footer>
 
-
 <script>
-  /* ========= STATE ========= */
   const qs = (k) => new URLSearchParams(location.search).get(k);
-  const state = {
-    lang: qs("lang") || localStorage.getItem("lang") || "en",
-    i18n: null,
-    projects: null
-  };
+  const state = { lang: qs("lang") || localStorage.getItem("lang") || "en", i18n: null, projects: null };
 
-  /* ========= HELPERS ========= */
   function applyDirAndLang(lang) {
     const html = document.documentElement;
     html.lang = lang;
@@ -220,107 +405,80 @@
   }
 
   async function loadData() {
-    const [i18nRes, projRes] = await Promise.all([
-      fetch("data/i18n.json"),
-      fetch("data/projects.json")
-    ]);
+    const [i18nRes, projRes] = await Promise.all([fetch("data/i18n.json"), fetch("data/projects.json")]);
     state.i18n = await i18nRes.json();
     state.projects = await projRes.json();
   }
 
-  /* ========= RENDER ========= */
   function renderText() {
     const map = {
-      heroTag: "home.heroTag",
-      heroTitle: "home.heroTitle",
-      heroSubtitle: "home.heroSubtitle",
-      heroBtnText: "home.heroBtnText",
-      heroBtnContactText: "home.heroBtnContactText",
-      statProjects: "home.statProjects",
-      statTurnaround: "home.statTurnaround",
-      statLanguages: "home.statLanguages",
-      navWork: "nav.work",
-      navServices: "nav.services",
-      navContact: "nav.contact",
-      mNavWork: "nav.work",
-      mNavServices: "nav.services",
-      mNavContact: "nav.contact",
-      workTag: "work.tag",
-      workTitle: "work.title",
-      workSub: "work.sub",
-      servicesTag: "services.tag",
-      servicesTitle: "services.title",
-      svc1Title: "services.svc1Title",
-      svc1Desc: "services.svc1Desc",
-      svc2Title: "services.svc2Title",
-      svc2Desc: "services.svc2Desc",
-      svc3Title: "services.svc3Title",
-      svc3Desc: "services.svc3Desc",
-      svc4Title: "services.svc4Title",
-      svc4Desc: "services.svc4Desc",
-      processTag: "process.tag",
-      processTitle: "process.title",
-      step1Title: "process.step1Title",
-      step1Desc: "process.step1Desc",
-      step2Title: "process.step2Title",
-      step2Desc: "process.step2Desc",
-      step3Title: "process.step3Title",
-      step3Desc: "process.step3Desc",
-      ctaTag: "cta.tag",
-      ctaTitle: "cta.title",
-      ctaSub: "cta.sub",
-      ctaEmailText: "cta.emailText",
-      ctaWhatsappText: "cta.whatsappText",
-      footerMade: "footer.made"
+      navAbout:"nav.about", navWork:"nav.work", navServices:"nav.services", navPricing:"nav.pricing", navFaq:"nav.faq", navContact:"nav.contact",
+      mNavAbout:"nav.about", mNavWork:"nav.work", mNavServices:"nav.services", mNavPricing:"nav.pricing", mNavFaq:"nav.faq", mNavContact:"nav.contact",
+      heroTag:"home.heroTag", heroTitle:"home.heroTitle", heroSubtitle:"home.heroSubtitle", heroBtnText:"home.heroBtnText", heroBtnContactText:"home.heroBtnContactText",
+      statProjects:"home.statProjects", statTurnaround:"home.statTurnaround", statLanguages:"home.statLanguages",
+      proofClients:"proof.clients", proofRetention:"proof.retention", proofDelivery:"proof.delivery",
+      proofClients2:"proof.clients", proofRetention2:"proof.retention", proofDelivery2:"proof.delivery",
+      aboutTag:"about.tag", aboutTitle:"about.title", aboutSub:"about.sub", aboutCard1Title:"about.card1Title", aboutCard1Desc:"about.card1Desc",
+      aboutCard2Title:"about.card2Title", aboutCard2Desc:"about.card2Desc", aboutCard3Title:"about.card3Title", aboutCard3Desc:"about.card3Desc",
+      workTag:"work.tag", workTitle:"work.title", workSub:"work.sub",
+      servicesTag:"services.tag", servicesTitle:"services.title", svc1Title:"services.svc1Title", svc1Desc:"services.svc1Desc", svc2Title:"services.svc2Title", svc2Desc:"services.svc2Desc", svc3Title:"services.svc3Title", svc3Desc:"services.svc3Desc", svc4Title:"services.svc4Title", svc4Desc:"services.svc4Desc",
+      testimonialsTag:"testimonials.tag", testimonialsTitle:"testimonials.title", testimonialsSub:"testimonials.sub",
+      testimonialsQ1:"testimonials.t1Quote", testimonialsN1:"testimonials.t1Name", testimonialsR1:"testimonials.t1Role",
+      testimonialsQ2:"testimonials.t2Quote", testimonialsN2:"testimonials.t2Name", testimonialsR2:"testimonials.t2Role",
+      testimonialsQ3:"testimonials.t3Quote", testimonialsN3:"testimonials.t3Name", testimonialsR3:"testimonials.t3Role",
+      pricingTag:"pricing.tag", pricingTitle:"pricing.title", pricingSub:"pricing.sub",
+      pricingStarter:"pricing.starter", pricingStarterDesc:"pricing.starterDesc", pricingStarterFeat1:"pricing.starterFeat1", pricingStarterFeat2:"pricing.starterFeat2", pricingStarterFeat3:"pricing.starterFeat3", pricingStarterFeat4:"pricing.starterFeat4",
+      pricingGrowth:"pricing.growth", pricingGrowthDesc:"pricing.growthDesc", pricingGrowthFeat1:"pricing.growthFeat1", pricingGrowthFeat2:"pricing.growthFeat2", pricingGrowthFeat3:"pricing.growthFeat3", pricingGrowthFeat4:"pricing.growthFeat4",
+      pricingCustom:"pricing.custom", pricingCustomDesc:"pricing.customDesc", pricingCustomFeat1:"pricing.customFeat1", pricingCustomFeat2:"pricing.customFeat2", pricingCustomFeat3:"pricing.customFeat3", pricingCustomFeat4:"pricing.customFeat4",
+      pricingCta1:"pricing.cta", pricingCta2:"pricing.cta", pricingCta3:"pricing.cta",
+      processTag:"process.tag", processTitle:"process.title", step1Title:"process.step1Title", step1Desc:"process.step1Desc", step2Title:"process.step2Title", step2Desc:"process.step2Desc", step3Title:"process.step3Title", step3Desc:"process.step3Desc",
+      faqTag:"faq.tag", faqTitle:"faq.title", faqQ1:"faq.q1", faqA1:"faq.a1", faqQ2:"faq.q2", faqA2:"faq.a2", faqQ3:"faq.q3", faqA3:"faq.a3", faqQ4:"faq.q4", faqA4:"faq.a4",
+      ctaTag:"cta.tag", ctaTitle:"cta.title", ctaSub:"cta.sub", ctaEmailText:"cta.emailText", ctaWhatsappText:"cta.whatsappText",
+      footerRole:"footer.role", footerLinks:"footer.links", footerMade:"footer.made"
     };
-
-    for (const [id, path] of Object.entries(map)) {
+    for (const [id,path] of Object.entries(map)) {
       const el = document.getElementById(id);
-      if (el) {
-        const val = t(path);
-        if (id === "heroTitle") { el.innerHTML = val; }
-        else if (id === "ctaTitle") { el.innerHTML = val; }
-        else { el.textContent = val; }
-      }
+      if (!el) continue;
+      const val = t(path);
+      if (id === "heroTitle" || id === "ctaTitle") el.innerHTML = val;
+      else el.textContent = val;
     }
-
     document.getElementById("year").textContent = new Date().getFullYear();
+  }
+
+  function projectThumb(p) {
+    return p.thumbnail || "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 1000'%3E%3Crect width='800' height='1000' fill='%23151518'/%3E%3Crect x='70' y='70' width='660' height='860' rx='26' fill='%231d1d22' stroke='%2331313a'/%3E%3Ccircle cx='400' cy='360' r='70' fill='%2300e5a0' fill-opacity='.14'/%3E%3Cpath d='M380 320l70 40-70 40z' fill='%2300e5a0'/%3E%3Crect x='150' y='560' width='500' height='22' rx='11' fill='%23373741'/%3E%3Crect x='150' y='610' width='380' height='18' rx='9' fill='%232e2e35'/%3E%3Crect x='150' y='690' width='120' height='32' rx='16' fill='%2326262d'/%3E%3Crect x='286' y='690' width='120' height='32' rx='16' fill='%2326262d'/%3E%3C/svg%3E";
   }
 
   function renderProjects() {
     const grid = document.getElementById("projectsGrid");
     grid.innerHTML = "";
-
     state.projects.forEach((p, i) => {
       const title = p.title[state.lang] || p.title.en;
       const summary = p.summary[state.lang] || p.summary.en;
       const category = p.category?.[state.lang] || p.category?.en || "";
-
       const card = document.createElement("a");
       card.href = `project.html?id=${encodeURIComponent(p.id)}&lang=${encodeURIComponent(state.lang)}`;
-      card.className = "project-card";
-      card.style.animationDelay = `${i * 0.1}s`;
-
+      card.className = "project-card reveal";
+      card.style.transitionDelay = `${i * 60}ms`;
       card.innerHTML = `
-        <div class="project-card__thumb" style="background-image:url('${p.thumbnail || ''}')">
+        <div class="project-card__thumb" style="background-image:url('${projectThumb(p)}')">
           <div class="project-card__overlay">
-            <div class="project-card__play">
-              <i class="fa-solid fa-play"></i>
-            </div>
+            <div class="project-card__play"><i class="fa-solid fa-play"></i></div>
           </div>
           ${category ? `<span class="project-card__cat">${category}</span>` : ''}
+          <span class="project-card__year">${p.year || ""}</span>
         </div>
         <div class="project-card__info">
           <h3 class="project-card__title">${title}</h3>
           <p class="project-card__summary">${summary}</p>
-          <div class="project-card__tags">${(p.tags || []).map(tag => `<span class="tag">${tag}</span>`).join('')}</div>
-        </div>
-      `;
+          <div class="project-card__tags">${(p.tags || []).slice(0,4).map(tag => `<span class="tag">${tag}</span>`).join('')}</div>
+          <div class="project-card__cta">View project <i class="fa-solid fa-arrow-right"></i></div>
+        </div>`;
       grid.appendChild(card);
     });
   }
 
-  /* ========= NAV ========= */
   function setupNav() {
     const burger = document.getElementById("navBurger");
     const menu = document.getElementById("mobileMenu");
@@ -328,50 +486,37 @@
       burger.classList.toggle("active");
       menu.classList.toggle("open");
     });
-    menu.querySelectorAll("a").forEach(a => {
-      a.addEventListener("click", () => {
-        burger.classList.remove("active");
-        menu.classList.remove("open");
-      });
-    });
-
-    // Nav background on scroll
+    menu.querySelectorAll("a").forEach(a => a.addEventListener("click", () => {
+      burger.classList.remove("active");
+      menu.classList.remove("open");
+    }));
     window.addEventListener("scroll", () => {
       document.getElementById("mainNav").classList.toggle("nav--scrolled", window.scrollY > 60);
     });
   }
 
-  /* ========= SCROLL ANIMATIONS ========= */
   function setupScrollAnimations() {
     const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add("in-view");
-        }
-      });
-    }, { threshold: 0.15 });
+      entries.forEach(entry => { if (entry.isIntersecting) entry.target.classList.add("in-view"); });
+    }, { threshold: 0.12 });
+    document.querySelectorAll('.reveal, .project-card, .service-card, .process-step, .cta-block').forEach(el => observer.observe(el));
+  }
 
-    document.querySelectorAll('.service-card, .process-step, .project-card, .section__header, .cta-block').forEach(el => {
-      observer.observe(el);
+  function setupFaq() {
+    document.querySelectorAll(".faq-item").forEach(btn => {
+      btn.addEventListener("click", () => btn.classList.toggle("open"));
     });
   }
 
-  /* ========= INIT ========= */
   async function init() {
     applyDirAndLang(state.lang);
     document.getElementById("langSelect").value = state.lang;
-
     await loadData();
     renderText();
     renderProjects();
     setupNav();
-
-    // Allow animations after load
-    requestAnimationFrame(() => {
-      document.body.classList.add("loaded");
-      setupScrollAnimations();
-    });
-
+    setupFaq();
+    requestAnimationFrame(() => { document.body.classList.add("loaded"); setupScrollAnimations(); });
     document.getElementById("langSelect").addEventListener("change", (e) => {
       state.lang = e.target.value;
       localStorage.setItem("lang", state.lang);
@@ -381,7 +526,6 @@
       setupScrollAnimations();
     });
   }
-
   init();
 </script>
 </body>
