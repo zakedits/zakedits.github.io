@@ -66,10 +66,10 @@
     "Fusion",
     "Adobe Photoshop"
   ],
-  "thumbnailUrl": "assets/css/images/glass widget.jpg",
-  "demoUrl": "/mnt/video1.mp4",
-  "videoEmbedUrl": "/mnt/video1.mp4",
-  "codeUrl": ""
+  "thumbnail": "assets/css/images/glass widget.webp",
+  "demo": "https://youtu.be/QEFrSuKiwdo",
+  "videoEmbed": "https://youtu.be/QEFrSuKiwdo",
+  "code": ""
 },
   {
   "id": "AI Learning",
