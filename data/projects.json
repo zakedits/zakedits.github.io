@@ -1,5 +1,77 @@
 [
   {
+  "id": "Glass-Widget",
+  "year": "2026",
+  "category": {
+    "en": "Animation",
+    "fr": "Animation",
+    "ar": "رسوم متحركة"
+  },
+  "title": {
+    "en": "Glass-Widget 1",
+    "fr": "Glass-Widget 1",
+    "ar": "جلاس-ويدجيت 1"
+  },
+  "summary": {
+    "en": "Designed and animated a modern glass-morphism widget interface featuring smooth micro-interactions, subtle reflections, and clean motion transitions for a polished UI look. Focused on precise timing, layered transparency, and refined easing to create a premium infographic-style animation suitable for social media and digital presentations.",
+    "fr": "Conception et animation d'une interface de widget moderne au style « glass-morphism », incluant des micro-interactions fluides, des reflets subtils et des transitions de mouvement épurées pour un rendu UI soigné. L'accent a été mis sur la précision du timing, la transparence par couches et des courbes d'accélération raffinées pour créer une animation de type infographie haut de gamme adaptée aux réseaux sociaux.",
+    "ar": "تصميم وتحريك واجهة ويدجيت عصرية بنمط الزجاج المضبب (Glass-morphism)، تتميز بتفاعلات دقيقة وسلسة، وانعكاسات هادئة، وانتقالات حركة نظيفة لمظهر واجهة مستخدم احترافي. تم التركيز على دقة التوقيت، وشفافية الطبقات، وتخفيف الحركة لإنشاء رسوم متحركة بيانية مميزة تناسب منصات التواصل الاجتماعي والعروض الرقمية."
+  },
+  "overview": {
+    "en": "Developed a sleek glass-morphism widget animation that showcases a modern UI style through layered transparency, soft blur effects, and realistic light reflections. The project involved designing and animating multiple interface elements with smooth transitions, responsive micro-interactions, and carefully timed motion to ensure clarity and visual flow across each sequence. Special attention was given to motion hierarchy, easing curves, and depth composition to achieve a polished, premium look suitable for infographics, reels, and promotional content. The final result highlights strong control over timing, visual consistency, and detail-driven motion design tailored for high-engagement social media formats.",
+    "fr": "Développement d'une animation de widget au style « glass-morphism » mettant en valeur une esthétique UI moderne grâce à la transparence par couches, des effets de flou doux et des reflets lumineux réalistes. Le projet a impliqué la conception et l'animation de plusieurs éléments d'interface avec des transitions fluides, des micro-interactions réactives et un mouvement méticuleusement synchronisé pour assurer la clarté et le flux visuel. Une attention particulière a été portée à la hiérarchie du mouvement, aux courbes de vitesse et à la composition de la profondeur pour obtenir un aspect premium idéal pour les infographies, les reels et le contenu promotionnel. Le résultat final démontre une maîtrise du timing, de la cohérence visuelle et d'un design de mouvement axé sur les détails pour les formats sociaux à fort engagement.",
+    "ar": "تطوير رسوم متحركة لواجهة مستخدم بنمط الزجاج المضبب تبرز الأسلوب العصري من خلال طبقات الشفافية، وتأثيرات التمويه الناعمة، وانعكاسات الضوء الواقعية. تضمن المشروع تصميم وتحريك عناصر واجهة متعددة بانتقالات سلسة، وتفاعلات دقيقة مستجيبة، وحركة مدروسة لضمان الوضوح والتدفق البصري في كل تسلسل. تم إيلاء اهتمام خاص للتسلسل الهرمي للحركة، ومنحنيات السرعة، وتكوين العمق للوصول إلى مظهر راقٍ ومميز يناسب الرسوم البيانية وفيديوهات Reels والمحتوى الترويجي. تبرز النتيجة النهائية تحكماً قوياً في التوقيت، والاتساق البصري، وتصميم الحركة القائم على التفاصيل والمخصص لوسائل التواصل الاجتماعي."
+  },
+  "whatIDid": {
+    "en": [
+      "Planning the animation concept, style direction, and motion flow",
+      "Creating initial sketches and visual storyboards for layout and transitions",
+      "Generating and refining glass-morphism UI assets and design elements",
+      "Building and animating the full sequence with smooth micro-interactions",
+      "Designing and syncing sound effects to enhance motion clarity and impact"
+    ],
+    "fr": [
+      "Planification du concept d'animation, de la direction stylistique et du flux de mouvement",
+      "Création de croquis initiaux et de story-boards visuels pour la mise en page et les transitions",
+      "Génération et affinage des éléments d'interface utilisateur et des ressources graphiques « glass-morphism »",
+      "Construction et animation de la séquence complète avec des micro-interactions fluides",
+      "Conception et synchronisation des effets sonores pour renforcer la clarté et l'impact du mouvement"
+    ],
+    "ar": [
+      "التخطيط لمفهوم الرسوم المتحركة، وتحديد التوجه الفني، ومسار الحركة",
+      "رسم المخططات الأولية ولوحات القصة المرئية لتنسيق التصميم والانتقالات",
+      "إنشاء وتحسين عناصر واجهة المستخدم والأصول المرئية بنمط الزجاج المضبب",
+      "بناء وتحريك التسلسل الكامل مع تفاعلات دقيقة وسلسة",
+      "تصميم ومزامنة المؤثرات الصوتية لتعزيز وضوح الحركة وتأثيرها"
+    ]
+  },
+  "results": {
+    "en": [],
+    "fr": [],
+    "ar": []
+  },
+  "tags": [
+    "Motion Design",
+    "UI Animation",
+    "Infographic Animation",
+    "Micro-Interactions",
+    "Social Media Video",
+    "Reels Editing",
+    "Modern UI",
+    "Visual Storytelling",
+    "DaVinci Resolve"
+  ],
+  "tools": [
+    "DaVinci Resolve",
+    "Fusion",
+    "Adobe Photoshop"
+  ],
+  "thumbnailUrl": "assets/css/images/glass widget.jpg",
+  "demoUrl": "/mnt/video1.mp4",
+  "videoEmbedUrl": "/mnt/video1.mp4",
+  "codeUrl": ""
+},
+  {
   "id": "AI Learning",
   "year": 2026,
   "category": {
