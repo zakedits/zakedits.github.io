@@ -1,5 +1,63 @@
 [
   {
+  "id": "Animation-Ramadan1",
+  "year": "2026",
+  "category": {
+    "en": "Animation",
+    "fr": "Animation",
+    "ar": "رسوم متحركة"
+  },
+  "title": {
+    "en": "Ramadan 3d animation",
+    "fr": "Animation 3D de Ramadan",
+    "ar": "رسوم متحركة ثلاثية الأبعاد لرمضان"
+  },
+  "summary": {
+    "en": "Created a cinematic Ramadan-themed video using 3D camera movement inside a detailed 3D environment in DaVinci Resolve, focusing on smooth motion, lighting depth, and immersive visual storytelling.",
+    "fr": "Création d'une vidéo cinématographique sur le thème du Ramadan utilisant des mouvements de caméra 3D au sein d'un environnement tridimensionnel détaillé dans DaVinci Resolve, en mettant l'accent sur la fluidité des mouvements, la profondeur de l'éclairage et une narration visuelle immersive.",
+    "ar": "إنتاج فيديو سينمائي بمناسبة شهر رمضان باستخدام حركات كاميرا ثلاثية الأبعاد داخل بيئة افتراضية متكاملة في برنامج DaVinci Resolve، مع التركيز على انسيابية الحركة، وعمق الإضاءة، والسرد البصري الغامر."
+  },
+  "overview": {
+    "en": "Produced a cinematic Ramadan-themed video using advanced **3D camera movement inside a fully designed 3D environment** in DaVinci Resolve. The project involved building a layered scene with atmospheric lighting, depth-focused composition, and smooth camera choreography to create an immersive and emotionally engaging visual experience. Careful attention was given to motion pacing, transitions, and environmental details to maintain visual consistency and enhance storytelling flow. The final result highlights strong control over cinematic movement, spatial design, and technical execution, making it well-suited for reels, social media campaigns, and portfolio presentation.",
+    "fr": "Réalisation d'une vidéo cinématographique pour le Ramadan exploitant des **mouvements de caméra 3D avancés dans un environnement 3D complet** conçu sous DaVinci Resolve. Le projet a nécessité la construction d'une scène multicouche avec un éclairage atmosphérique, une composition axée sur la profondeur et une chorégraphie de caméra fluide pour créer une expérience visuelle immersive et émouvante. Une attention particulière a été portée au rythme, aux transitions et aux détails environnementaux afin de garantir une cohérence visuelle et d'enrichir le flux narratif. Le résultat final démontre une solide maîtrise du mouvement cinématographique, du design spatial et de l'exécution technique, idéal pour les reels, les campagnes sur les réseaux sociaux et les présentations de portfolio.",
+    "ar": "تم إنتاج فيديو سينمائي رمضاني باستخدام تقنيات متقدمة لـ **حركة الكاميرا ثلاثية الأبعاد داخل بيئة مصممة بالكامل ثلاثية الأبعاد** في برنامج DaVinci Resolve. تضمن المشروع بناء مشهد متعدد الطبقات مع إضاءة محيطة وتكوين يركز على العمق، بالإضافة إلى تنسيق حركات الكاميرا لخلق تجربة بصرية غامرة ومؤثرة عاطفياً. تم إيلاء اهتمام دقيق لوتيرة الحركة، والانتقالات، والتفاصيل البيئية لضمان الاتساق البصري وسلاسة السرد. تبرز النتيجة النهائية تحكماً قوياً في الحركة السينمائية، والتصميم المكاني، والتنفيذ التقني، مما يجعله مناسباً تماماً لمقاطع الـ Reels، وحملات التواصل الاجتماعي، ومعارض الأعمال الاحترافية."
+  },
+  "whatIDid": {
+    "en": [
+      "Planning the visual concept, camera movement, and scene composition",
+      "Building and organizing the 3D environment inside DaVinci Resolve (Fusion)",
+      "Animating the 3D camera and refining lighting, motion flow, and transitions"
+    ],
+    "fr": [
+      "Planification du concept visuel, des mouvements de caméra et de la composition de la scène.",
+      "Construction et organisation de l'environnement 3D dans DaVinci Resolve (Fusion).",
+      "Animation de la caméra 3D et peaufinage de l'éclairage, de la fluidité des mouvements et des transitions."
+    ],
+    "ar": [
+      "تخطيط المفهوم البصري، وحركة الكاميرا، وتكوين المشهد.",
+      "بناء وتنظيم البيئة ثلاثية الأبعاد داخل DaVinci Resolve (Fusion).",
+      "تحريك الكاميرا ثلاثية الأبعاد وتحسين الإضاءة وتدفق الحركة والانتقالات."
+    ]
+  },
+  "results": {
+    "en": [],
+    "fr": [],
+    "ar": []
+  },
+  "tags": [
+    "3DAnimation",
+    "MotionDesign",
+    "DaVinciResolve"
+  ],
+  "tools": [
+    "davinci resolve"
+  ],
+  "thumbnail": "assets/css/images/ramadan animation.webp",
+  "demo": "https://youtube.com/shorts/JnBwj_WR07U?feature=share",
+  "videoEmbed": "https://www.youtube.com/shorts/embed/JnBwj_WR07U?feature=share",
+  "codeUrl": ""
+},
+  {
   "id": "Glass-Widget",
   "year": "2026",
   "category": {
