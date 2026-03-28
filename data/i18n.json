@@ -6,51 +6,61 @@
       "contact": "Let's Talk"
     },
     "home": {
-      "heroTag": "SHORT-FORM VIDEO EDITOR",
-      "heroTitle": "I turn raw footage<br>into <span class=\"hero__accent\">scroll-stoppers</span>",
-      "heroSubtitle": "Reels. TikToks. Shorts. Crafted to hook, hold, and convert.",
+      "heroTag": "VIDEO EDITOR — TECHNICAL & CREATIVE CONTENT",
+      "heroTitle": "Footage that makes <br><span class=\"hero__accent\">complex ideas land.</span>",
+      "heroSubtitle": "Video editing for engineers, researchers, startups, and technical creators. Any format. English, French, Arabic.",
       "heroBtnText": "See My Work",
-      "heroBtnContactText": "Contact Me",
+      "heroBtnContactText": "Start a Project",
       "statProjects": "Projects Delivered",
       "statTurnaround": "Turnaround Time",
       "statLanguages": "Languages"
     },
+    "niche": {
+      "tag": "WHO I WORK WITH",
+      "title": "Built for the <span class=\"hero__accent\">technical world.</span>",
+      "item1Title": "Engineering & science channels",
+      "item1Desc": "Build logs, lab walkthroughs, experiment footage, and explainers — edited by someone who actually understands what you built.",
+      "item2Title": "University teams & research labs",
+      "item2Desc": "Competition reels, funding pitch videos, and outreach content that communicate precision and credibility.",
+      "item3Title": "Startups & tech brands",
+      "item3Desc": "Product demos, investor decks, event recaps, and ad creatives. Any format, any platform."
+    },
     "work": {
       "tag": "PORTFOLIO",
       "title": "Selected Work",
-      "sub": "Each project crafted to stop the scroll and drive engagement."
+      "sub": "A mix of technical, creative, and commercial projects — each crafted to communicate clearly and look great doing it."
     },
     "services": {
       "tag": "WHAT I DO",
       "title": "Services",
-      "svc1Title": "Reels & TikToks",
-      "svc1Desc": "Hook-driven short videos with trending transitions, captions, and sound design that boost engagement.",
-      "svc2Title": "Motion & Effects",
-      "svc2Desc": "Kinetic text, smooth zoom cuts, custom transitions, and visual effects that make your brand pop.",
-      "svc3Title": "Captions & Subtitles",
-      "svc3Desc": "Animated captions in English, French, and Arabic. Accessibility meets style — auto-synced and branded.",
-      "svc4Title": "Color Grading",
-      "svc4Desc": "Cinematic color correction that gives your content a consistent, professional aesthetic across all posts."
+      "svc1Title": "Short-Form Video",
+      "svc1Desc": "Reels, TikToks, and Shorts built for retention. Hook, pacing, captions, and sound — tuned for platform algorithms.",
+      "svc2Title": "Long-Form & YouTube",
+      "svc2Desc": "Full episode edits, build vlogs, explainer series, and documentary-style content — structured for watch time.",
+      "svc3Title": "Pitch & Demo Videos",
+      "svc3Desc": "Investor presentations, product demos, competition submissions. Clean, credible, and professional.",
+      "svc4Title": "Motion, Captions & Color",
+      "svc4Desc": "Animated captions in English, French, and Arabic. Kinetic text, custom transitions, and cinematic color grading."
     },
     "process": {
       "tag": "HOW IT WORKS",
       "title": "Simple Process",
       "step1Title": "Send Your Footage",
-      "step1Desc": "Share your raw clips, reference edits, and any brand guidelines via Google Drive or WeTransfer.",
+      "step1Desc": "Share your raw clips, references, and any brief via Google Drive or WeTransfer. The more context, the better the first draft.",
       "step2Title": "I Edit & Refine",
-      "step2Desc": "I craft your video with hooks, pacing, transitions, music, and captions — all optimized for your platform.",
+      "step2Desc": "I craft your video with precision — pacing, transitions, captions, color, and audio all handled. First draft within 24 hours.",
       "step3Title": "Review & Deliver",
-      "step3Desc": "You get the first draft within 24 hours. One round of revisions included — then it's ready to post."
+      "step3Desc": "One round of revisions included. Final export in the format you need — ready to upload, publish, or present."
     },
     "cta": {
-      "tag": "READY?",
-      "title": "Let's make your<br>content go viral",
-      "sub": "Drop me a message and let's talk about your next project.",
+      "tag": "LET'S WORK TOGETHER",
+      "title": "Got a project<br>in mind?",
+      "sub": "Drop me a message. I reply within 24 hours.",
       "emailText": "Email Me",
       "whatsappText": "WhatsApp"
     },
     "footer": {
-      "made": "Crafted with passion"
+      "made": "Crafted with precision"
     },
     "project": {
       "back": "← Back",
@@ -72,51 +82,61 @@
       "contact": "Contact"
     },
     "home": {
-      "heroTag": "MONTEUR VIDÉO SHORT-FORM",
-      "heroTitle": "Je transforme vos rushs<br>en <span class=\"hero__accent\">vidéos virales</span>",
-      "heroSubtitle": "Reels. TikToks. Shorts. Conçus pour capter, retenir et convertir.",
+      "heroTag": "MONTEUR VIDÉO — CONTENU TECHNIQUE & CRÉATIF",
+      "heroTitle": "Des vidéos qui font <br><span class=\"hero__accent\">passer les idées complexes.</span>",
+      "heroSubtitle": "Montage vidéo pour ingénieurs, chercheurs, startups et créateurs techniques. Tout format. Anglais, français, arabe.",
       "heroBtnText": "Voir mes projets",
-      "heroBtnContactText": "Demander un devis",
+      "heroBtnContactText": "Démarrer un projet",
       "statProjects": "Projets livrés",
       "statTurnaround": "Délai de livraison",
       "statLanguages": "Langues"
     },
+    "niche": {
+      "tag": "AVEC QUI JE TRAVAILLE",
+      "title": "Conçu pour le <span class=\"hero__accent\">monde technique.</span>",
+      "item1Title": "Chaînes ingénierie & science",
+      "item1Desc": "Documentations de construction, visites de labo, expériences et explications — montées par quelqu'un qui comprend votre domaine.",
+      "item2Title": "Équipes universitaires & labos",
+      "item2Desc": "Vidéos de compétition, pitchs de financement et contenu de sensibilisation qui communiquent précision et crédibilité.",
+      "item3Title": "Startups & marques tech",
+      "item3Desc": "Démos produits, présentations investisseurs, récapitulatifs d'événements et créatifs publicitaires. Tout format, toute plateforme."
+    },
     "work": {
       "tag": "PORTFOLIO",
       "title": "Projets sélectionnés",
-      "sub": "Chaque projet est conçu pour capter l'attention et augmenter l'engagement."
+      "sub": "Un mélange de projets techniques, créatifs et commerciaux — conçus pour communiquer clairement et avec style."
     },
     "services": {
       "tag": "MES SERVICES",
       "title": "Services",
-      "svc1Title": "Reels & TikToks",
-      "svc1Desc": "Vidéos courtes avec hooks, transitions tendance, sous-titres et sound design qui boostent l'engagement.",
-      "svc2Title": "Motion & Effets",
-      "svc2Desc": "Texte animé, zooms fluides, transitions personnalisées et effets visuels qui font ressortir votre marque.",
-      "svc3Title": "Sous-titres",
-      "svc3Desc": "Sous-titres animés en anglais, français et arabe. Accessibilité et style — synchronisés et personnalisés.",
-      "svc4Title": "Étalonnage couleur",
-      "svc4Desc": "Correction colorimétrique cinématographique pour un rendu professionnel et cohérent sur tous vos posts."
+      "svc1Title": "Vidéo courte",
+      "svc1Desc": "Reels, TikToks et Shorts conçus pour la rétention. Accroche, rythme, sous-titres et son — tout optimisé pour les algorithmes.",
+      "svc2Title": "Long format & YouTube",
+      "svc2Desc": "Montage complet d'épisodes, vlogs, séries d'explications et documentaires — structurés pour maximiser le temps de visionnage.",
+      "svc3Title": "Pitch & démo vidéo",
+      "svc3Desc": "Présentations investisseurs, démos produits, soumissions de compétition. Propre, crédible, professionnel.",
+      "svc4Title": "Motion, sous-titres & couleur",
+      "svc4Desc": "Sous-titres animés en anglais, français et arabe. Texte cinétique, transitions personnalisées, étalonnage cinématographique."
     },
     "process": {
       "tag": "COMMENT ÇA MARCHE",
       "title": "Processus simple",
       "step1Title": "Envoyez vos rushs",
-      "step1Desc": "Partagez vos clips bruts, références et charte graphique via Google Drive ou WeTransfer.",
+      "step1Desc": "Partagez vos clips bruts, références et brief via Google Drive ou WeTransfer. Plus de contexte = meilleur premier rendu.",
       "step2Title": "Je monte & peaufine",
-      "step2Desc": "Je crée votre vidéo avec hooks, rythme, transitions, musique et sous-titres — optimisé pour votre plateforme.",
+      "step2Desc": "Je construis votre vidéo avec précision — rythme, transitions, sous-titres, couleur et audio. Premier brouillon en 24h.",
       "step3Title": "Validation & livraison",
-      "step3Desc": "Premier jet livré sous 24h. Une série de retouches incluse — puis c'est prêt à publier."
+      "step3Desc": "Un tour de révisions inclus. Export final dans le format souhaité — prêt à uploader, publier ou présenter."
     },
     "cta": {
-      "tag": "PRÊT ?",
-      "title": "Faisons de votre<br>contenu un succès viral",
-      "sub": "Envoyez-moi un message et parlons de votre prochain projet.",
+      "tag": "TRAVAILLONS ENSEMBLE",
+      "title": "Un projet<br>en tête ?",
+      "sub": "Envoyez-moi un message. Je réponds sous 24 heures.",
       "emailText": "Email",
       "whatsappText": "WhatsApp"
     },
     "footer": {
-      "made": "Réalisé avec passion"
+      "made": "Réalisé avec précision"
     },
     "project": {
       "back": "← Retour",
@@ -138,51 +158,61 @@
       "contact": "تواصل معي"
     },
     "home": {
-      "heroTag": "مونتير فيديوهات قصيرة",
-      "heroTitle": "من لقطات عادية إلى <br>إلى <span class=\"hero__accent\">محتوى يبيع ويؤثر</span>",
-      "heroSubtitle": "ريلز. تيكتوك. شورتس. مصممة لجذب الانتباه وزيادة التفاعل.",
+      "heroTag": "مونتير فيديو — محتوى تقني وإبداعي",
+      "heroTitle": "لقطات تجعل <br><span class=\"hero__accent\">الأفكار المعقدة واضحة.</span>",
+      "heroSubtitle": "مونتاج احترافي للمهندسين والباحثين والشركات الناشئة والمبدعين التقنيين. أي تنسيق. بالعربية والفرنسية والإنجليزية.",
       "heroBtnText": "شاهد أعمالي",
-      "heroBtnContactText": "اطلب عرض سعر",
+      "heroBtnContactText": "ابدأ مشروعاً",
       "statProjects": "مشروع منجز",
       "statTurnaround": "وقت التسليم",
       "statLanguages": "لغات"
     },
+    "niche": {
+      "tag": "مع من أعمل",
+      "title": "مصمم للعالم <span class=\"hero__accent\">التقني.</span>",
+      "item1Title": "قنوات الهندسة والعلوم",
+      "item1Desc": "وثائق البناء وجولات المختبرات والتجارب والمقاطع التفسيرية — يحررها شخص يفهم مجالك فعلاً.",
+      "item2Title": "الفرق الجامعية والمختبرات البحثية",
+      "item2Desc": "مقاطع المسابقات وعروض التمويل والمحتوى التوعوي الذي يعكس الدقة والمصداقية.",
+      "item3Title": "الشركات الناشئة والعلامات التقنية",
+      "item3Desc": "عروض المنتجات وعروض المستثمرين وملخصات الأحداث والإعلانات. أي تنسيق، أي منصة."
+    },
     "work": {
       "tag": "معرض الأعمال",
       "title": "أعمال مختارة",
-      "sub": "كل مشروع مصمم لجذب الانتباه وزيادة التفاعل."
+      "sub": "مزيج من المشاريع التقنية والإبداعية والتجارية — كل مشروع مصمم للتواصل بوضوح وبأسلوب احترافي."
     },
     "services": {
       "tag": "ماذا أقدّم",
       "title": "الخدمات",
-      "svc1Title": "ريلز وتيكتوك",
-      "svc1Desc": "فيديوهات قصيرة مع هوكات جذابة، انتقالات رائجة، ترجمات وتصميم صوتي يرفع التفاعل.",
-      "svc2Title": "موشن وتأثيرات",
-      "svc2Desc": "نصوص متحركة، قصات زوم سلسة، انتقالات مخصصة وتأثيرات بصرية تبرز علامتك التجارية.",
-      "svc3Title": "ترجمات وعناوين",
-      "svc3Desc": "ترجمات متحركة بالإنجليزية والفرنسية والعربية. أناقة وسهولة وصول — متزامنة ومخصصة.",
-      "svc4Title": "تصحيح الألوان",
-      "svc4Desc": "تدريج ألوان سينمائي يمنح محتواك مظهراً احترافياً ومتناسقاً عبر جميع المنشورات."
+      "svc1Title": "فيديو قصير",
+      "svc1Desc": "ريلز وتيك توك وشورتس مصممة للاحتفاظ بالمشاهدين. خطاف وإيقاع وترجمة وصوت — كل شيء محسّن للخوارزميات.",
+      "svc2Title": "فيديو طويل ويوتيوب",
+      "svc2Desc": "تحرير كامل للحلقات ومدونات البناء وسلاسل الشرح والمحتوى الوثائقي — منظم لزيادة وقت المشاهدة.",
+      "svc3Title": "فيديوهات العرض التقديمي",
+      "svc3Desc": "عروض المستثمرين وعروض المنتجات وتقديمات المسابقات. نظيف وموثوق واحترافي.",
+      "svc4Title": "موشن وترجمة وألوان",
+      "svc4Desc": "ترجمة متحركة بالعربية والفرنسية والإنجليزية. نص متحرك وانتقالات مخصصة وتدرج لوني سينمائي."
     },
     "process": {
       "tag": "كيف يعمل",
       "title": "عملية بسيطة",
       "step1Title": "أرسل مقاطعك",
-      "step1Desc": "شارك المقاطع الخام والمراجع وأي إرشادات للعلامة التجارية عبر Google Drive أو WeTransfer.",
-      "step2Title": "أقوم بالمونتاج",
-      "step2Desc": "أصنع فيديوك مع هوكات، إيقاع، انتقالات، موسيقى وترجمات — كلها محسّنة لمنصتك.",
-      "step3Title": "مراجعة وتسليم",
-      "step3Desc": "تحصل على النسخة الأولى خلال 24 ساعة. جولة تعديلات واحدة مشمولة — ثم جاهز للنشر."
+      "step1Desc": "شارك المقاطع الخام والمراجع وأي موجز عبر Google Drive أو WeTransfer. كلما زاد السياق، كانت المسودة الأولى أفضل.",
+      "step2Title": "أقوم بالتحرير والصقل",
+      "step2Desc": "أبني فيديوك بدقة — الإيقاع والانتقالات والترجمة واللون والصوت — كلها تحت السيطرة. المسودة الأولى خلال 24 ساعة.",
+      "step3Title": "المراجعة والتسليم",
+      "step3Desc": "جولة واحدة من المراجعات مشمولة. التصدير النهائي بالتنسيق الذي تحتاجه — جاهز للرفع أو النشر أو العرض."
     },
     "cta": {
-      "tag": "جاهز؟",
-      "title": "لنجعل محتواك<br>ينتشر بسرعة",
-      "sub": "أرسل لي رسالة ولنتحدث عن مشروعك القادم.",
+      "tag": "لنعمل معاً",
+      "title": "لديك مشروع<br>في ذهنك؟",
+      "sub": "أرسل لي رسالة. أرد خلال 24 ساعة.",
       "emailText": "البريد الإلكتروني",
       "whatsappText": "واتساب"
     },
     "footer": {
-      "made": "صُنع بشغف"
+      "made": "صُنع بدقة"
     },
     "project": {
       "back": "→ رجوع",
